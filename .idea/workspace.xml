@@ -21,26 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="multiple_params.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiple_params.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic_class.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="class_exp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/class_exp.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,11 +97,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="panda_2D_plot.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="panda_2D_plot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/panda_2D_plot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54317546">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#23#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pandas_3D_plot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pandas_3D_plot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#23#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pandas_multiple_plots.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pandas_multiple_plots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5821727">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding>
                 <element signature="e#23#42#0" expanded="true" />
               </folding>
@@ -153,6 +157,8 @@
         <option value="$PROJECT_DIR$/df_from_df.py" />
         <option value="$PROJECT_DIR$/panda_column_operations.py" />
         <option value="$PROJECT_DIR$/panda_2D_plot.py" />
+        <option value="$PROJECT_DIR$/pandas_3D_plot.py" />
+        <option value="$PROJECT_DIR$/pandas_multiple_plots.py" />
       </list>
     </option>
   </component>
@@ -217,41 +223,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.panda_2D_plot">
-    <configuration default="false" name="using_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using_pandas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pandas_import_from_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_import_from_csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.pandas_multiple_plots">
     <configuration default="false" name="df_from_df" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,6 +271,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/panda_2D_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pandas_3D_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_3D_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pandas_multiple_plots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_multiple_plots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -426,19 +432,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.using_pandas" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pandas_import_from_csv" />
-      <item index="2" class="java.lang.String" itemvalue="Python.df_from_df" />
-      <item index="3" class="java.lang.String" itemvalue="Python.panda_column_operations" />
-      <item index="4" class="java.lang.String" itemvalue="Python.panda_2D_plot" />
+      <item index="0" class="java.lang.String" itemvalue="Python.df_from_df" />
+      <item index="1" class="java.lang.String" itemvalue="Python.panda_column_operations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.panda_2D_plot" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pandas_3D_plot" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pandas_multiple_plots" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.panda_2D_plot" />
-        <item index="1" class="java.lang.String" itemvalue="Python.panda_column_operations" />
-        <item index="2" class="java.lang.String" itemvalue="Python.df_from_df" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pandas_import_from_csv" />
-        <item index="4" class="java.lang.String" itemvalue="Python.using_pandas" />
+        <item index="0" class="java.lang.String" itemvalue="Python.pandas_multiple_plots" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pandas_3D_plot" />
+        <item index="2" class="java.lang.String" itemvalue="Python.panda_2D_plot" />
+        <item index="3" class="java.lang.String" itemvalue="Python.panda_column_operations" />
+        <item index="4" class="java.lang.String" itemvalue="Python.df_from_df" />
       </list>
     </recent_temporary>
   </component>
@@ -580,8 +586,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/panda_2D_plot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54317546">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_3D_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas_multiple_plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5821727">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding>
             <element signature="e#23#42#0" expanded="true" />
           </folding>
