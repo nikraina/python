@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c30852b8-bea4-4c06-a97f-789a6f5dc2eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c30852b8-bea4-4c06-a97f-789a6f5dc2eb" name="Default" comment="" />
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simple_json.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simple_json.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple_json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4368932">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="partial_func.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partial_func.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.40048543">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -95,6 +103,7 @@
         <option value="$PROJECT_DIR$/list_comprehension.py" />
         <option value="$PROJECT_DIR$/multiple_func_args.py" />
         <option value="$PROJECT_DIR$/simple_json.py" />
+        <option value="$PROJECT_DIR$/partial_func.py" />
       </list>
     </option>
   </component>
@@ -160,24 +169,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python.simple_json">
-    <configuration default="false" name="yield_simple" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yield_simple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.partial_func">
     <configuration default="false" name="generator_yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,6 +234,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="partial_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/partial_func.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -369,19 +378,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.yield_simple" />
-      <item index="1" class="java.lang.String" itemvalue="Python.generator_yield" />
-      <item index="2" class="java.lang.String" itemvalue="Python.list_comprehension" />
-      <item index="3" class="java.lang.String" itemvalue="Python.multiple_func_args" />
-      <item index="4" class="java.lang.String" itemvalue="Python.simple_json" />
+      <item index="0" class="java.lang.String" itemvalue="Python.generator_yield" />
+      <item index="1" class="java.lang.String" itemvalue="Python.list_comprehension" />
+      <item index="2" class="java.lang.String" itemvalue="Python.multiple_func_args" />
+      <item index="3" class="java.lang.String" itemvalue="Python.simple_json" />
+      <item index="4" class="java.lang.String" itemvalue="Python.partial_func" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.simple_json" />
-        <item index="1" class="java.lang.String" itemvalue="Python.multiple_func_args" />
-        <item index="2" class="java.lang.String" itemvalue="Python.list_comprehension" />
-        <item index="3" class="java.lang.String" itemvalue="Python.generator_yield" />
-        <item index="4" class="java.lang.String" itemvalue="Python.yield_simple" />
+        <item index="0" class="java.lang.String" itemvalue="Python.partial_func" />
+        <item index="1" class="java.lang.String" itemvalue="Python.simple_json" />
+        <item index="2" class="java.lang.String" itemvalue="Python.multiple_func_args" />
+        <item index="3" class="java.lang.String" itemvalue="Python.list_comprehension" />
+        <item index="4" class="java.lang.String" itemvalue="Python.generator_yield" />
       </list>
     </recent_temporary>
   </component>
@@ -438,14 +447,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db_interaction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pet_db_interaction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -846,6 +847,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/simple_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/multiple_func_args.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -854,10 +863,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simple_json.py">
+    <entry file="file://$PROJECT_DIR$/partial_func.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4368932">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.40048543">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding />
         </state>
       </provider>
