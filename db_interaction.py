@@ -4,7 +4,7 @@ import sqlite3
 
 def Main():
     try:
-        con = sqlite3.connect("test.db")
+        con = sqlite3.connect("test_python.db")
         cur = con.cursor()
         cur.execute("SELECT SQLITE_VERSION()")
 
